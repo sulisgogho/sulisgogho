@@ -2,10 +2,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sulisgogho.sulisgogho&"  />
 </div>
 
-<div align="center">
-  <img height="150" src="cakep.png"  />
-</div>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=FF652F&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sulistyowati+Munawaroh;" />
 </h1>
