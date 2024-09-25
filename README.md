@@ -34,6 +34,7 @@
 ###
 
 <h3 align="center">👩‍💻About Me</h3>
+<br/>
 
 <div align="center">
  
@@ -45,7 +46,7 @@
 
 ⚡ Fun fact **I think I am funny**
 
- </div>
+</div>
 <br/>
 <hr/>
 
