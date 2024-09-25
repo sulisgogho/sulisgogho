@@ -7,8 +7,10 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sulistyowati+Munawaroh;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=FF652F&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sulistyowati+Munawaroh;" />
 </h1>
+
+###
 
 <p align="center">
 <a href="https://twitter.com/sulisgogho123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sulisgogho123" height="30" width="40" /></a>     
@@ -31,28 +33,29 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻About Me</h3>
 
-###
-
-- 🌱 I’m currently learning **ReactJS, NextJS, NodeJS, ExpressJS**
-
-- 👨‍💻 All of my projects are available at [https://sulistyowatimunawaroh.vercel.app/](https://sulistyowatimunawaroh.vercel.app/)
-
-- 📫 How to reach me **sulistyowatimunawaaroh@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-
-###
-
- <hr/>
+<div align="center">
  
+ 🔭 I’m currently working on **Home**
+ 
+ 🌱 I’m currently learning **ReactJS, NextJS, NodeJS, ExpressJS**
+
+💬 Ask me about **HTML, CSS, JS... or anything [here](https://github.com/sulisgogho)**
+
+⚡ Fun fact **I think I am funny**
+
+ </div>
+<br/>
+<hr/>
+
+###
+
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,aws" /><br>
 </div>
 
 <br/>
@@ -60,38 +63,46 @@
 
 ###
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
+
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sulisgogho&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sulisgogho&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sulisgogho&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sulisgogho&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<br/><br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sulisgogho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulisgogho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+<br/>
 <hr/>
+
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sulisgogho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulisgogho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sulisgogho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <h3>🔥My Contributions 🔥</h3>
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+  
+<br/>
 </div>
 
-###
-
-<h3 align="left">🏆 GitHub Profile Trophy</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulisgogho" alt="sulisgogho" /></a> </p>
-
 
 ###
 
-<br clear="both">
+<h3 align="center">🏆 GitHub Profile Trophy</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulisgogho" alt="sulisgogho" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
